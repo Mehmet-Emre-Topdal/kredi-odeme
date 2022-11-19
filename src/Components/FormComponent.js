@@ -1,7 +1,6 @@
 import {
   Button,
   Card,
-
   Grid,
 
 } from "@mui/material";
@@ -38,7 +37,7 @@ export default function FormComponent() {
         ctx.setData({...formInputs})
 
         //inputsRef.current.clearInputs(); modal açtıktan sonra opsiyonel olarak inputlar temizlenebilir
-        //henüz test aşamasında oluğu için şimdilik bırakıyorum
+
         setIsSubmit(false);
 
         ModalCtx.setOpen(true)
