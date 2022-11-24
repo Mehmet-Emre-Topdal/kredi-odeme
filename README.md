@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+In development of this project; Context API, Material UI, useEffect, refs and useImperativeHandle hooks are used
 
-## demo: https://met-kredi-odeme.netlify.app/
+demo: https://met-kredi-odeme.netlify.app/
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
